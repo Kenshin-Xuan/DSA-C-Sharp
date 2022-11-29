@@ -1,0 +1,25 @@
+﻿
+DICTIONARY
+
+-  a generic collection that stores key-value pairs in no particular order.
+-  System.Collections.Generic namespace.
+-  Implements IDictionary<TKey, TValue> interface.
+-  Keys must be unique and cannot be null.
+-  Values can be null or duplicate.
+
+
+
+
+
+
+
+
+
+
+.Net Libraries (Framework Class Library FCL)
+-----------------------------------------------------------------------------
+https://mindmajix.com/net-libraries
+
+https://learn.microsoft.com/en-us/dotnet/standard/framework-libraries
+
+https://www.javatpoint.com/net-framework-class-library

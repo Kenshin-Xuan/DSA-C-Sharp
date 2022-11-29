@@ -1,0 +1,14 @@
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\bin\Debug\netcoreapp3.1\Dictionary_Implementation.exe
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\bin\Debug\netcoreapp3.1\Dictionary_Implementation.deps.json
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\bin\Debug\netcoreapp3.1\Dictionary_Implementation.runtimeconfig.json
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\bin\Debug\netcoreapp3.1\Dictionary_Implementation.runtimeconfig.dev.json
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\bin\Debug\netcoreapp3.1\Dictionary_Implementation.dll
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\bin\Debug\netcoreapp3.1\Dictionary_Implementation.pdb
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\obj\Debug\netcoreapp3.1\Dictionary_Implementation.csproj.AssemblyReference.cache
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\obj\Debug\netcoreapp3.1\Dictionary_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\obj\Debug\netcoreapp3.1\Dictionary_Implementation.AssemblyInfoInputs.cache
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\obj\Debug\netcoreapp3.1\Dictionary_Implementation.AssemblyInfo.cs
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\obj\Debug\netcoreapp3.1\Dictionary_Implementation.csproj.CoreCompileInputs.cache
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\obj\Debug\netcoreapp3.1\Dictionary_Implementation.dll
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\obj\Debug\netcoreapp3.1\Dictionary_Implementation.pdb
+D:\DSA-C#\DICTIONARY\Dictionary\Dictionary_Implementation\Dictionary_Implementation\obj\Debug\netcoreapp3.1\Dictionary_Implementation.genruntimeconfig.cache

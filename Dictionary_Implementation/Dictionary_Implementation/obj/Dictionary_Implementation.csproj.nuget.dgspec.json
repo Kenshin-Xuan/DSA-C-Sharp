@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DSA-C#\\DICTIONARY\\Dictionary_Implementation\\Dictionary_Implementation\\Dictionary_Implementation.csproj": {}
+    "D:\\DSA-C#\\DICTIONARY\\Dictionary\\Dictionary_Implementation\\Dictionary_Implementation\\Dictionary_Implementation.csproj": {}
   },
   "projects": {
-    "D:\\DSA-C#\\DICTIONARY\\Dictionary_Implementation\\Dictionary_Implementation\\Dictionary_Implementation.csproj": {
+    "D:\\DSA-C#\\DICTIONARY\\Dictionary\\Dictionary_Implementation\\Dictionary_Implementation\\Dictionary_Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DSA-C#\\DICTIONARY\\Dictionary_Implementation\\Dictionary_Implementation\\Dictionary_Implementation.csproj",
+        "projectUniqueName": "D:\\DSA-C#\\DICTIONARY\\Dictionary\\Dictionary_Implementation\\Dictionary_Implementation\\Dictionary_Implementation.csproj",
         "projectName": "Dictionary_Implementation",
-        "projectPath": "D:\\DSA-C#\\DICTIONARY\\Dictionary_Implementation\\Dictionary_Implementation\\Dictionary_Implementation.csproj",
+        "projectPath": "D:\\DSA-C#\\DICTIONARY\\Dictionary\\Dictionary_Implementation\\Dictionary_Implementation\\Dictionary_Implementation.csproj",
         "packagesPath": "C:\\Users\\KenshinX\\.nuget\\packages\\",
-        "outputPath": "D:\\DSA-C#\\DICTIONARY\\Dictionary_Implementation\\Dictionary_Implementation\\obj\\",
+        "outputPath": "D:\\DSA-C#\\DICTIONARY\\Dictionary\\Dictionary_Implementation\\Dictionary_Implementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
